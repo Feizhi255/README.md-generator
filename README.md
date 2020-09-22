@@ -1,8 +1,8 @@
 
-# **nhy**
-![GitHub contributors](https://img.shields.io/github/contributors/Feizhi255/README.md-generator)
+# **nhj**
+![Made By](https://img.shields.io/badge/Made%20by-Jordan%20Kirby-red)
 ## Description 
-nhu
+pol
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -15,9 +15,9 @@ nhu
 ## Installation
         npm i
 ## Usage
-jio
+g
 ## Licence
-![GitHub contributors](https://img.shields.io/github/contributors/Feizhi255/README.md-generator)
+
 ## Contributors
 
 ## Test
