@@ -36,6 +36,7 @@ ${data.test}
 ![Image of me](${githubInfo.githubImage})
 - ${githubInfo.name}
 - [${data.username}](${githubInfo.profile})
+- <${githubInfo.email}>
 `;
 }
 
