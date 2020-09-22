@@ -1,8 +1,8 @@
 
-# **nhj**
+# **README Generator**
 ![Made By](https://img.shields.io/badge/Made%20by-Jordan%20Kirby-red)
 ## Description 
-pol
+README.md generator
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -15,15 +15,15 @@ pol
 ## Installation
         npm i
 ## Usage
-g
+Generats a good README.md for any project
 ## Licence
 
 ## Contributors
-
+Feizhi255
 ## Test
 
 ## Repository
-- [Project Repo](link)
+- [Project Repo](https://github.com/Feizhi255/README.md-generator)
 ## GitHub
 ![Image of me](https://avatars2.githubusercontent.com/u/64999600?v=4)
 - Jordan Kirby
