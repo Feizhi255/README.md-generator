@@ -6,7 +6,7 @@ When creating an open source project on GitHub, it is important to have a qualit
 
 ## Example image/gif
 
-![Example of application](./assests/image/README-eample.png)
+![Example of application](./assests/image/README-exapmle.png)
 
 ## Table of contents
 - [Description](#Description)
@@ -33,7 +33,7 @@ When creating an open source project on GitHub, it is important to have a qualit
 ## Contributors
 Just my self Jordan Kirby
 ## Test
-0
+0 test run
 ## Repository
 - [README.md-generator](https://github.com/Feizhi255/README.md-generator)
 ## GitHub
