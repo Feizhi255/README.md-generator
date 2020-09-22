@@ -1,8 +1,8 @@
 
-# **bgt**
-
+# **nhy**
+https://img.shields.io/github/contributors/Feizhi255/README.md-generator
 ## Description 
-gt
+ge
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -13,13 +13,13 @@ gt
 - [Repository Link](#Repository)
 - [GitHub Info](#GitHub) 
 ## Installation
-        npm i
+        nmp i
 ## Usage
-
+read
 ## Licence
-/github/all-contributors/:user/:repo/:branch*
-## Contributors
 
+## Contributors
+Jordan Kirby
 ## Test
 
 ## Repository
