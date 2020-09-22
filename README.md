@@ -29,7 +29,7 @@ When creating an open source project on GitHub, it is important to have a qualit
 
   The user will be prompted for their GitHub username and other information pertaining to the project the README is for.
 ## Licence
-![Made By](https://img.shields.io/badge/Made%20by-Jordan%20Kirby-red)![APM](https://img.shields.io/apm/l/npm)
+![APM](https://img.shields.io/apm/l/npm)
 ## Contributors
 Just my self Jordan Kirby
 ## Test
