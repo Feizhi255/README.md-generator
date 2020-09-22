@@ -1,8 +1,8 @@
 
-# **README generator**
-
+# **j**
+https://img.shields.io/badge/Made--by-Jordan--Kirby-lightgrey
 ## Description 
-Good README generator for any projects
+f
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -15,11 +15,11 @@ Good README generator for any projects
 ## Installation
         npm i
 ## Usage
-
+readme
 ## Licence
-
+/apm/l/:packageName
 ## Contributors
-Jordan Kirby
+
 ## Test
 
 ## Repository
