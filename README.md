@@ -1,8 +1,8 @@
 
-# **README Generator**
+# **Readme generator**
 ![Made By](https://img.shields.io/badge/Made%20by-Jordan%20Kirby-red)
 ## Description 
-README.md generator
+generatos a good read me for any projects
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -15,7 +15,7 @@ README.md generator
 ## Installation
         npm i
 ## Usage
-Generats a good README.md for any project
+readme
 ## Licence
 
 ## Contributors
@@ -23,7 +23,7 @@ Feizhi255
 ## Test
 
 ## Repository
-- [Project Repo](https://github.com/Feizhi255/README.md-generator)
+- [README.md-generator](https://github.com/Feizhi255/README.md-generator)
 ## GitHub
 ![Image of me](https://avatars2.githubusercontent.com/u/64999600?v=4)
 - Jordan Kirby
