@@ -1,8 +1,8 @@
 
-# **lp**
+# **bgt**
 
 ## Description 
-
+gt
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -15,17 +15,17 @@
 ## Installation
         npm i
 ## Usage
-q
+
 ## Licence
-https://img.shields.io/badge/Made%20by-Jordan%20Kirby-red
+/github/all-contributors/:user/:repo/:branch*
 ## Contributors
 
 ## Test
 
 ## Repository
-- [Project Repo](vfr)
+- [Project Repo](link)
 ## GitHub
-![Image of me](https://avatars3.githubusercontent.com/u/92994?v=4)
-- Carmen Diaz
-- [GitHub Profile](https://github.com/cde)
+![Image of me](https://avatars2.githubusercontent.com/u/64999600?v=4)
+- Jordan Kirby
+- [GitHub Profile](https://github.com/Feizhi255)
 - <null>
