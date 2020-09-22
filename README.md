@@ -1,8 +1,8 @@
 
-# **j**
-[![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
+# **README generator**
+
 ## Description 
-f
+Good README generator for any projects
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -13,19 +13,19 @@ f
 - [Repository Link](#Repository)
 - [GitHub Info](#GitHub) 
 ## Installation
-        s
+        npm i
 ## Usage
-e
+
 ## Licence
-v
+
 ## Contributors
-g
+Jordan Kirby
 ## Test
-r
+
 ## Repository
-- [Project Repo](link)
+- [Project Repo](https://github.com/Feizhi255/README.md-generator)
 ## GitHub
-![Image of me](https://avatars3.githubusercontent.com/u/398652?v=4)
-- bene
-- [GitHub Profile](https://github.com/4)
+![Image of me](https://avatars2.githubusercontent.com/u/64999600?v=4)
+- Jordan Kirby
+- [GitHub Profile](https://github.com/Feizhi255)
 - <null>
