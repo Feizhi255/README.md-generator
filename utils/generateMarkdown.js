@@ -14,9 +14,12 @@ ${data.description}
 - [Repository Link](#Repository)
 - [GitHub Info](#GitHub) 
 ## Installation
+  Run:
         ${data.installation}
 ## Usage
+  This command-line application dynamically generates a README.md from a user's input. The application will be invoked with the following command:
         ${data.usage}
+  The user will be prompted for their GitHub username and other information pertaining to the project the README is for.
 ## Licence
 ${data.licence}
 ## Contributors
