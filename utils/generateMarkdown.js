@@ -36,8 +36,8 @@ ${data.test}
 ![Image of me](${githubInfo.githubImage})
 - ${githubInfo.name}
 - [${data.username}](${githubInfo.profile})
-## Questions? send me an email
-- <${data.questions}>
+## Questions? send me an email title it with the Repo name plz
+- <${data.email}>
 `;
 }
 
