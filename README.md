@@ -1,13 +1,8 @@
 
 # **README.md Generator**
-![Made By](https://img.shields.io/badge/Made%20by-Jordan%20Kirby-red)
+1
 ## Description 
-When creating an open source project on GitHub, it is important to have a quality README with information about the app--what is the app for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project. A command-line application will allow for quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
-
-## Example image/gif
-
-![Example of application](./assests/image/README-exapmle.png)
-
+2
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -20,25 +15,25 @@ When creating an open source project on GitHub, it is important to have a qualit
 ## Installation
   Run:
 
-        npm i
+        3
         
 ## Usage
   This command-line application dynamically generates a README.md from a user's input. The application will be invoked with the following command:
 
-        node index.js
+        4
 
   The user will be prompted for their GitHub username and other information pertaining to the project the README is for.
 ## Licence
-![APM](https://img.shields.io/apm/l/npm)
+5
 ## Contributors
-Just my self Jordan Kirby
+6
 ## Test
-0 test run
+7
 ## Repository
-- [README.md-generator](https://github.com/Feizhi255/README.md-generator)
+- [10](9)
 ## GitHub
-![Image of me](https://avatars2.githubusercontent.com/u/64999600?v=4)
-- Jordan Kirby
-- [Feizhi255](https://github.com/Feizhi255)
+![Image of me](https://avatars1.githubusercontent.com/u/278500?v=4)
+- null
+- [8](https://github.com/8)
 ## Questions? send me an email title it with the Repo name plz
-- <jrock255@hotmail.com>
+- <11>
