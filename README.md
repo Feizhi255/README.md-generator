@@ -1,8 +1,8 @@
 
-# **nhjk**
-nklo
+# **olpo**
+;p[';
 ## Description 
-nhgf
+nmkio,
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -15,24 +15,25 @@ nhgf
 ## Installation
   Run:
 
-        klo
+        npm i
         
 ## Usage
   This command-line application dynamically generates a README.md from a user's input. The application will be invoked with the following command:
 
-        vgy
+        node index.js
 
   The user will be prompted for their GitHub username and other information pertaining to the project the README is for.
 ## Licence
-qwe
+
 ## Contributors
-hjkl
+Jordan Kirby
 ## Test
-1
+
 ## Repository
-- [name](link)
+- [readme](link)
 ## GitHub
-![Image of me](https://avatars1.githubusercontent.com/u/67803440?v=4)
-- Diego Hernandez
-- [Diegopie](https://github.com/Diegopie)
-- <null>
+![Image of me](https://avatars2.githubusercontent.com/u/64999600?v=4)
+- Jordan Kirby
+- [Feizhi255](https://github.com/Feizhi255)
+## Questions? send me an email
+- <link>
