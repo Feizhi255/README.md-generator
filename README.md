@@ -1,8 +1,8 @@
 
-# **Readme generator**
+# **jki**
 ![Made By](https://img.shields.io/badge/Made%20by-Jordan%20Kirby-red)
 ## Description 
-generatos a good read me for any projects
+redgoi
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -15,17 +15,16 @@ generatos a good read me for any projects
 ## Installation
         npm i
 ## Usage
-readme
+        goki
 ## Licence
 
 ## Contributors
-Feizhi255
+Jordan Kirby
 ## Test
 
 ## Repository
-- [README.md-generator](https://github.com/Feizhi255/README.md-generator)
+- [README.md-generator](link)
 ## GitHub
 ![Image of me](https://avatars2.githubusercontent.com/u/64999600?v=4)
 - Jordan Kirby
-- [GitHub Profile](https://github.com/Feizhi255)
-- <null>
+- [Feizhi255](https://github.com/Feizhi255)

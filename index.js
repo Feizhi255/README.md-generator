@@ -54,6 +54,11 @@ const questions = [
         name: "repo",
         message: "What is your repo link?"
     },
+    {
+        type: "input",
+        name: "repoName",
+        message: "What is your repo Name?"
+    },
 ];
 
 inquirer

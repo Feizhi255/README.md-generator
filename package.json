@@ -1,16 +1,25 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "![Made By](https://img.shields.io/badge/Made%20by-Jordan%20Kirby-red) ## Description  pol ## Table of contents - [Description](#Description) - [Installation](#Installation) - [Usage](#Usage) - [Licence](#Licence) - [Contributors](#Contributors) - [Test](#Test) - [Repository Link](#Repository) - [GitHub Info](#GitHub)  ## Installation         npm i ## Usage g ## Licence",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Jordan Kibry",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.20.0",
     "i": "^0.3.6",
     "inquirer": "^6.5.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Feizhi255/README.md-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Feizhi255/README.md-generator/issues"
+  },
+  "homepage": "https://github.com/Feizhi255/README.md-generator#readme"
 }

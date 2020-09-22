@@ -16,7 +16,7 @@ ${data.description}
 ## Installation
         ${data.installation}
 ## Usage
-${data.usage}
+        ${data.usage}
 ## Licence
 ${data.licence}
 ## Contributors
@@ -24,12 +24,11 @@ ${data.contributing}
 ## Test
 ${data.test}
 ## Repository
-- [Project Repo](${data.repo})
+- [${data.repoName}](${data.repo})
 ## GitHub
 ![Image of me](${githubInfo.githubImage})
 - ${githubInfo.name}
-- [GitHub Profile](${githubInfo.profile})
-- <${githubInfo.email}>
+- [${data.username}](${githubInfo.profile})
 `;
 }
 
