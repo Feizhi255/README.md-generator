@@ -6,7 +6,7 @@ When creating an open source project on GitHub, it is important to have a qualit
 
 ### Example image
 
-![Example of application](./assests/exampleGIF/exampleGIF-video.mp4)
+![Example of application](./assests/exampleGIF/exampleVideo.mp4)
 
 ## Table of contents
 - [Description](#Description)
